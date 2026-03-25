@@ -49,18 +49,26 @@ Passionate about **Web Development** and **DevOps** culture, I have solid hands-
 <br/>
 
 ### 🎓 Education & Certifications
-
-- 🏫 **Industrial Computer Engineering Degree** - ENETCOM (2022-2025)
-- 📜 **Notable Certifications**: 
-  - ISTQB® Certified Tester - Foundation Level
-  - Kubernetes Certification (KodeKloud)
-  - Microsoft Azure Certification
-
+**🏫 Engineering Degree in Industrial Computer Science** <br/>
+*ENET’Com (Sfax, Tunisia) • Sep 2022 – Jun 2025*
+- Rank: 11/74
+**🧪 Preparatory School in Physics and Chemistry** <br/>
+*IPEIS (Sfax, Tunisia) • Sep 2020 – Jun 2022*
+**🎒 Baccalaureate in Experimental Sciences** <br/>
+*Sep 2016 – Jul 2020*
+- Average: 15.24/20 — *with Honors*
+**📜 Notable Certifications**: 
+- ISTQB® Certified Tester - Foundation Level
+- Kubernetes Certification (KodeKloud)
+- Microsoft Azure Certification
 <br/>
 
-### 📈 GitHub Stats & Top Languages
-
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EYABA12&show_icons=true&theme=onedark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Eya's GitHub Stats" height="192" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EYABA12&layout=compact&theme=onedark&bg_color=0D1117&title_color=58A6FF" alt="Eya's Top Languages" height="192"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EYABA12&theme=nord" width="100%" alt="Eya's Profile Details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EYABA12&theme=nord" width="32%" alt="Eya's Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EYABA12&theme=nord" width="32%" alt="Eya's Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EYABA12&theme=nord" width="32%" alt="Eya's Most Commit Language" />
 </p>
