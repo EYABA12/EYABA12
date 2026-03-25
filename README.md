@@ -8,6 +8,7 @@ Passionate about **Web Development** and **DevOps** culture, I have solid hands-
 - 📧 **Email:** eyabenamor.work@gmail.com
 - 📞 **Phone:** +216 29 020 087
 - 💼 **LinkedIn:** [in/eya-benamor](https://www.linkedin.com/in/eya-benamor/)
+- 🌐 **Portfolio:** [Insert your Portfolio link here]
 
 <br/>
 
@@ -49,21 +50,27 @@ Passionate about **Web Development** and **DevOps** culture, I have solid hands-
 <br/>
 
 ### 🎓 Education & Certifications
+
 **🏫 Engineering Degree in Industrial Computer Science** <br/>
 *ENET’Com (Sfax, Tunisia) • Sep 2022 – Jun 2025*
 - Rank: 11/74
+
 **🧪 Preparatory School in Physics and Chemistry** <br/>
 *IPEIS (Sfax, Tunisia) • Sep 2020 – Jun 2022*
+
 **🎒 Baccalaureate in Experimental Sciences** <br/>
 *Sep 2016 – Jul 2020*
 - Average: 15.24/20 — *with Honors*
+
 **📜 Notable Certifications**: 
 - ISTQB® Certified Tester - Foundation Level
 - Kubernetes Certification (KodeKloud)
 - Microsoft Azure Certification
+
 <br/>
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EYABA12&theme=nord" width="100%" alt="Eya's Profile Details" />
 </p>
