@@ -1,14 +1,19 @@
 # Hi, I am Eya Ben Amor 👋
 
 ### 👩‍💻 Junior Software Engineer | DevOps & Full-Stack Developer
+<p>
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Sfax,_Tunisia-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobility-Open_to_Relocation-0089D6?style=for-the-badge" />
+</p>
 
 Passionate about **Web Development** and **DevOps** culture, I have solid hands-on experience in building CI/CD pipelines, containerizing applications, and automating infrastructures. Always eager to learn, I love solving complex problems and contributing to agile, innovative projects.
 
 📫 **How to reach me:**
 - 📧 **Email:** eyabenamor.work@gmail.com
 - 📞 **Phone:** +216 29 020 087
+- 📍 **Location:** Sfax, Tunisia *(Open to national & international mobility)*
 - 💼 **LinkedIn:** [in/eya-benamor](https://www.linkedin.com/in/eya-benamor/)
-- 🌐 **Portfolio:** [Insert your Portfolio link here]
 
 <br/>
 
@@ -16,7 +21,7 @@ Passionate about **Web Development** and **DevOps** culture, I have solid hands-
 
 - 🔭 **I’m currently focused on:** Building scalable CI/CD pipelines and cloud-native applications.
 - 🌱 **I’m currently learning:** Advanced Kubernetes orchestration, GitOps best practices (like ArgoCD), and cutting-edge Cloud Architectures.
-- 🤝 **I’m open to:** Collaborating on Open Source DevOps tools or innovative Full-stack web projects.
+- 🤝 **I’m open to:** Full-time job opportunities and collaborating on Open Source DevOps projects.
 - 💬 **Ask me about:** Java, Spring Boot, Angular, Docker, Jenkins, and automating everything!
 - ⚡ **Fun fact:** I firmly believe that automating repetitive tasks is a form of modern art. 🎨
 
