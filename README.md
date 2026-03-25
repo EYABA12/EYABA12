@@ -1,7 +1,6 @@
 # Hi, I am Eya Ben Amor 👋
 
-### 👩‍💻 Junior Software Engineer | DevOps & Full-Stack Developer  
-### 🌍 Open to national and international opportunities((Full-time, Hybrid, or Remote)
+### 👩‍💻 Junior Software Engineer | DevOps & Full-Stack Developer|  🌍 Open to national and international opportunities((Full-time, Hybrid, or Remote)
 Passionate about Web Development and DevOps culture, I have solid hands-on experience in building CI/CD pipelines, containerizing applications, and automating infrastructures. I also design and develop secure REST APIs using Spring Boot, following clean code principles. Always eager to learn, I enjoy solving problems and contributing to agile, innovative projects.
 
 📫 **How to reach me:**
