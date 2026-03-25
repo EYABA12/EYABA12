@@ -47,17 +47,28 @@ Passionate about **Web Development** and **DevOps** culture, I have solid hands-
 
 <br/>
 
-### 🚀 Recent Experience & Major Projects
+### 🚀 Featured Experience & Key Projects
 
-- 🥇 **Final Year Internship @ KPIT** *(Jan 2025 - Jun 2025)*: <br/>End-to-end test automation for the automotive industry (Jenkins CI/CD pipelines, Docker containerization, Jira/Git API integrations, full-stack Spring Boot/Angular app). *Awarded "Best Graduation Project".*
+#### 🥇 [Award Winning] Final Year Project @ **KPIT** *Jan 2025 — June 2025*
+- [cite_start]**The Mission:** Developed a robust Full-Stack monitoring platform for automotive lighting tests, awarded **"Best Graduation Project"**.
+- [cite_start]**Technical Impact:** - Designed secure **REST APIs** with **Spring Boot** & **JWT**, ensuring high data integrity[cite: 22].
+  - [cite_start]Automated bug tracking by integrating **Jira & Git APIs** directly into the workflow[cite: 23].
+  - [cite_start]Implemented **CI/CD pipelines** (Jenkins/Docker) to reduce deployment time and human error[cite: 24, 25].
+  - [cite_start]Guaranteed long-term maintainability by strictly following **SOLID principles** and **Clean Code**[cite: 26].
 
-- ⚙️ **DevOps Engineering Intern @ Piximind** *(Jun 2024 - Aug 2024)*: <br/>Application deployment & cloud infrastructure automation using Terraform, Ansible, and Azure.
+#### ⚙️ DevOps Engineering Internship @ **Piximind** *June 2024 — August 2024*
+- [cite_start]**The Mission:** Automated cloud infrastructure and deployment processes for high-availability applications[cite: 28, 29].
+- [cite_start]**Technical Impact:** - Reduced resource management time through **Infrastructure as Code (IaC)** with **Terraform**[cite: 31].
+  - [cite_start]Optimized server configuration speeds using **Ansible** playbooks[cite: 32].
+  - [cite_start]Deployed automated **CI/CD pipelines** targeting **Azure Virtual Machines**[cite: 33].
 
-- ⛵ **Kubernetes GitOps Architecture Project**: <br/>Kubernetes cluster setup using Helm, orchestrated deployments with ArgoCD and Jenkins CI.
+#### ☸️ Kubernetes & GitOps Architecture
+- [cite_start]Engineered a **Kubernetes** cluster setup using **Helm Charts** for modular application management[cite: 67].
+- [cite_start]Orchestrated full **GitOps** workflows using **ArgoCD** and **Jenkins**, ensuring "single source of truth" deployments[cite: 66].
 
-- 💻 **Freelance & Academic Projects**: <br/>Full-Stack development (Angular, Java, Spring) for management applications and secure e-commerce platforms.
-
-<br/>
+#### 💻 Full-Stack Freelance & Academic Projects
+- [cite_start]**Restaurant Management System:** Built a secure, production-ready Java/Angular app with a focus on API security[cite: 41, 42].
+- [cite_start]**E-Commerce Platform:** Implemented end-to-end automation from code commit to **Azure** deployment using **GitHub Actions**[cite: 46, 49].
 
 ### 🎓 Education & Certifications
 
