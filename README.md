@@ -1,15 +1,14 @@
 # Hi, I am Eya Ben Amor 👋
 
-### 👩‍💻 Junior Software Engineer | DevOps & Full-Stack Developer
+### 👩‍💻 Junior Software Engineer (Master’s Degree) | DevOps & Full-Stack Developer | Open to national and international opportunities
 
-
-Passionate about **Web Development** and **DevOps** culture, I have solid hands-on experience in building CI/CD pipelines, containerizing applications, and automating infrastructures. Always eager to learn, I love solving complex problems and contributing to agile, innovative projects.
+Passionate about Web Development and DevOps culture, I have solid hands-on experience in building CI/CD pipelines, containerizing applications, and automating infrastructures. I also design and develop secure REST APIs using Spring Boot, following clean code principles. Always eager to learn, I enjoy solving problems and contributing to agile, innovative projects.
 
 📫 **How to reach me:**
-- 📧 **Email:** eyabenamor.work@gmail.com
-- 💼 **LinkedIn:** [in/eya-benamor](https://www.linkedin.com/in/eya-benamor/)
 - 📞 **Phone:** +216 29 020 087
 - 📍 **Location:** Sfax, Tunisia *(Open to national & international mobility)*
+- 📧 **Email:** eyabenamor.work@gmail.com
+- 💼 **LinkedIn:** [in/eya-benamor](https://www.linkedin.com/in/eya-benamor/)
 
 <br/>
 
@@ -24,19 +23,19 @@ Passionate about **Web Development** and **DevOps** culture, I have solid hands-
 
 ### 🛠️ Technical Skills
 
-**💻 Backend & APIs**
+**💻 Backend & APIs**: 
 Java • Spring Boot • Spring Security • REST APIs  
 
-**🌐 Frontend**
+**🌐 Frontend**: 
 Angular • HTML • CSS  
 
-**☁️ DevOps & Cloud**
+**☁️ DevOps & Cloud**:
 Docker • Kubernetes • Jenkins • GitHub Actions • ArgoCD • Terraform • Ansible • Azure • Linux  
 
-**🗄️ Databases**
+**🗄️ Databases**:
 MySQL  
 
-**🛠️ Tools & Methodologies**
+**🛠️ Tools & Methodologies**:
 Git • Jira • Scrum • ISTQB Certified
 
 <br/>
