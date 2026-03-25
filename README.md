@@ -56,14 +56,14 @@ Passionate about **Web Development** and **DevOps** culture, I have solid hands-
 
 ### 🎓 Education & Certifications
 
-** Engineering Degree in Industrial Computer Science** <br/>
+**Engineering Degree in Industrial Computer Science** <br/>
 *ENET’Com (Sfax, Tunisia) • Sep 2022 – Jun 2025*
 - Rank: 11/74
 
 **Preparatory School in Physics and Chemistry** <br/>
 *IPEIS (Sfax, Tunisia) • Sep 2020 – Jun 2022*
 
-** Baccalaureate in Experimental Sciences** <br/>
+**Baccalaureate in Experimental Sciences** <br/>
 *Sep 2016 – Jul 2020*
 - Average: 15.24/20 — *with Honors*
 
