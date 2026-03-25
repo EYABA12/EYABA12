@@ -1,11 +1,7 @@
 # Hi, I am Eya Ben Amor 👋
 
 ### 👩‍💻 Junior Software Engineer | DevOps & Full-Stack Developer
-<p>
-  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Sfax,_Tunisia-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobility-Open_to_Relocation-0089D6?style=for-the-badge" />
-</p>
+
 
 Passionate about **Web Development** and **DevOps** culture, I have solid hands-on experience in building CI/CD pipelines, containerizing applications, and automating infrastructures. Always eager to learn, I love solving complex problems and contributing to agile, innovative projects.
 
@@ -19,12 +15,11 @@ Passionate about **Web Development** and **DevOps** culture, I have solid hands-
 
 ### ⚡ What I am currently up to
 
-- 🔭 **I’m currently focused on:** Building scalable CI/CD pipelines and cloud-native applications.
-- 🌱 **I’m currently learning:** Advanced Kubernetes orchestration, GitOps best practices (like ArgoCD), and cutting-edge Cloud Architectures.
-- 🤝 **I’m open to:** Full-time job opportunities and collaborating on Open Source DevOps projects.
-- 💬 **Ask me about:** Java, Spring Boot, Angular, Docker, Jenkins, and automating everything!
-- ⚡ **Fun fact:** I firmly believe that automating repetitive tasks is a form of modern art. 🎨
-
+- 🔭 **Currently:** Open to new opportunities in the IT field (Software Development / DevOps / Testing).
+- 🌱 **Approach:** Constantly learning and adapting to new technologies to expand my skill set.
+- 🤝 **Goal:** Becoming a versatile engineer capable of working across different technologies and environments.
+- 💬 **Tech focus:** Java, Spring Boot, Angular, Docker, Jenkins.
+- ⚡ **Mindset:** I value adaptability, curiosity, and continuous improvement over sticking to a single technology.
 <br/>
 
 ### 🛠️ Technical Ecosystem & Tooling
@@ -73,14 +68,14 @@ I build robust applications using a modern stack focused on **Clean Code**, **Au
 
 ### 🎓 Education & Certifications
 
-**🏫 Engineering Degree in Industrial Computer Science** <br/>
+** Engineering Degree in Industrial Computer Science** <br/>
 *ENET’Com (Sfax, Tunisia) • Sep 2022 – Jun 2025*
 - Rank: 11/74
 
-**🧪 Preparatory School in Physics and Chemistry** <br/>
+**Preparatory School in Physics and Chemistry** <br/>
 *IPEIS (Sfax, Tunisia) • Sep 2020 – Jun 2022*
 
-**🎒 Baccalaureate in Experimental Sciences** <br/>
+** Baccalaureate in Experimental Sciences** <br/>
 *Sep 2016 – Jul 2020*
 - Average: 15.24/20 — *with Honors*
 
@@ -91,13 +86,5 @@ I build robust applications using a modern stack focused on **Clean Code**, **Au
 
 <br/>
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EYABA12&theme=nord" width="100%" alt="Eya's Profile Details" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EYABA12&theme=nord" width="32%" alt="Eya's Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EYABA12&theme=nord" width="32%" alt="Eya's Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EYABA12&theme=nord" width="32%" alt="Eya's Most Commit Language" />
 </p>
