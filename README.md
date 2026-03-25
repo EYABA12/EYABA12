@@ -16,14 +16,14 @@ Passionate about **Web Development** and **DevOps** culture, I have solid hands-
 ### ⚡ What I am currently up to
 
 - 🔭 **Currently:** Open to new opportunities in the IT field (Software Development / DevOps / Testing).
-- 🌱 **Approach:** Constantly learning and adapting to new technologies to expand my skill set.
+- 🌱 **Approach:** Continuously learning and leveraging AI tools to accelerate my workflow, improve productivity, and better understand new technologies.
 - 🤝 **Goal:** Becoming a versatile engineer capable of working across different technologies and environments.
-- 💬 **Tech focus:** Java, Spring Boot, Angular, Docker, Jenkins.
+- 💬 **Tech focus:** Java, Spring Boot, Angular, Docker, Jenkins,K8S,Terraform,Ansible
 - ⚡ **Mindset:** I value adaptability, curiosity, and continuous improvement over sticking to a single technology.
 <br/>
 
 ### 🛠️ Technical Skills & Tools
-**☁️ DevOps, CI/CD & Cloud**
+**☁️ DevOps, & Cloud**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
@@ -56,23 +56,20 @@ Passionate about **Web Development** and **DevOps** culture, I have solid hands-
 
 ### 🎓 Education & Certifications
 
-**Engineering Degree in Industrial Computer Science** <br/>
-*ENET’Com (Sfax, Tunisia) • Sep 2022 – Jun 2025*
-- Rank: 11/74
+- **Engineering Degree in Industrial Computer Science**  
+  ENET’Com, Sfax — *2022–2025*  
+  Rank: 11/74  
 
-**Preparatory School in Physics and Chemistry** <br/>
-*IPEIS (Sfax, Tunisia) • Sep 2020 – Jun 2022*
+- **Preparatory Cycle (Physics & Chemistry)**  
+  IPEIS, Sfax — *2020–2022*
 
-**Baccalaureate in Experimental Sciences** <br/>
-*Sep 2016 – Jul 2020*
-- Average: 15.24/20 — *with Honors*
+- **Baccalaureate – Experimental Sciences**  
+  *2016–2020* — With Honors (15.24/20)
 
-**📜 Notable Certifications**: 
-- ISTQB® Certified Tester - Foundation Level
-- Kubernetes Certification (KodeKloud)
-- Microsoft Azure Certification
-
-<br/>
+### 📜 Certifications
+- ISTQB® Certified Tester – Foundation Level  
+- Kubernetes (KodeKloud)  
+- Microsoft Azure Fundamentals
 
 
 </p>
